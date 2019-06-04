@@ -1,0 +1,47 @@
+body{
+background:#f4f4f4;
+}
+
+
+/* header */
+header{
+  background:#333333;
+  color:#ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+header .create{
+padding-top: 20px;
+}
+
+/* breadcrumbs */
+.breadcrumb{
+  background: #cccccc;
+  color: #333333;
+}
+
+.breadcrumb a{
+  color: #333333;
+}
+
+.dash-box{
+  text-align: center;
+  background:grey;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
